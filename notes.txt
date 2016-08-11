@@ -1,0 +1,1 @@
+1. Make sure the .env file (not included in Git) is properly configured in your local machine.
